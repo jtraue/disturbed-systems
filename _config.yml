@@ -9,10 +9,9 @@
 title: Disturbed Systems Blog
 email: jannnnna@gmx.de
 description: > # this means to ignore newlines until "baseurl:"
-  A collection of all the projects of our disturbed-systems team.
-baseurl: "" # the subpath of your site, e.g. /blog
+    A collection of projects of our team.
+baseurl: "/disturbed-systems" # the subpath of your site, e.g. /blog
 url: "http://jtraue.github.io/disturbed-systems" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
 github_username:  jtraue
 
 # Build settings
